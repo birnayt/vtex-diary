@@ -3,4 +3,4 @@ Repositório que irá servir como um diário dos conhecimentos que acumulo de VT
 
 Collection com API's da VTEX: https://www.postman.com/birnayt/workspace/community-vtex-collection/overview
 
-Até o momento só adicionei as principais API usadas para implementar um checkout headless na Vtex.
+Até o momento só adicionei as principais API's para implementar um checkout headless utilizando a plataforma Vtex.
